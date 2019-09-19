@@ -24,7 +24,7 @@ body {
   min-height: 100%;
   padding: 0;
   margin: 0;
-  background: url(/img_intro/intro.png) fixed top left no-repeat;
+  background: url(./img_intro/intro.png) fixed top left no-repeat;
   background-size: 100% 100%;
 }
 .header{
@@ -97,42 +97,42 @@ body {
   background-color:#b37d7daf;
 }
 .rates__flower{
-  background-image: url(/img/content/mark-as-favorite-star.png);
+  background-image: url(./img/content/mark-as-favorite-star.png);
   width: 68px;
   height: 68px;
   background-repeat: no-repeat;
   background-position: center;
 }
 .rate__item:hover .rates__flower{
-  background-image: url(/img/content/star_black.png);
+  background-image: url(./img/content/star_black.png);
   width: 68px;
   height: 68px;
   background-repeat: no-repeat;
   background-position: center;
 }
 .rates__star{
-  background-image: url(/img/content/flower.png);
+  background-image: url(./img/content/flower.png);
   width: 68px;
   height: 68px;
   background-repeat: no-repeat;
   background-position: center;
 }
 .rate__item:hover .rates__star{
-  background-image: url(/img/content//flower_black.png);
+  background-image: url(./img/content//flower_black.png);
   width: 68px;
   height: 68px;
   background-repeat: no-repeat;
   background-position: center;
 }
 .rates__paint{
-  background-image: url(/img/content/painter-palette.png);
+  background-image: url(./img/content/painter-palette.png);
   width: 68px;
   height: 68px;
   background-repeat: no-repeat;
   background-position: center;
 }
 .rate__item:hover .rates__paint{
-  background-image: url(/img/content/painter_black.png);
+  background-image: url(./img/content/painter_black.png);
   width: 68px;
   height: 68px;
   background-repeat: no-repeat;
@@ -333,11 +333,11 @@ body {
   height: 10px;
 }
 .pagination__btn_prev{
-  background-image: url('/img/img/icons/Vector\ Smart\ Object.png');
+  background-image: url('./img/img/icons/Vector\ Smart\ Object.png');
   background-repeat: no-repeat;
 }
 .pagination__btn_next{
-  background-image: url('/img/img/icons/Vector\ Smart\ Object2.png');
+  background-image: url('./img/img/icons/Vector\ Smart\ Object2.png');
   background-repeat: no-repeat;
 }
 .pagination__list{
@@ -405,7 +405,7 @@ body {
 }
 
 .icons__img--top{
-  background: url('/img/icons/google.png');
+  background: url('./img/icons/google.png');
   position: center;
 }
 .container {
@@ -474,7 +474,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav__icon{
   background-repeat: no-repeat;
-  background-image: url(/img/nav/css_sprites.png);
+  background-image: url(./img/nav/css_sprites.png);
 }
 .nav__icon_direction{
   width: 24px; 
@@ -603,14 +603,14 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .crew__item:hover .crews__icon__alex{
-  background-image: url(/img_about/foto/Alex.png);
+  background-image: url(./img_about/foto/Alex.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .crews__icon__alex{
-  background-image: url(/img_about/Alex.png);
+  background-image: url(./img_about/Alex.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -623,14 +623,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 60px;
 }
 .crew__item:hover .crews__icon__inna{
-  background-image: url(/img_about/foto/Inna.png);
+  background-image: url(./img_about/foto/Inna.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .crews__icon__inna{
-  background-image: url(/img_about/Inna.png);
+  background-image: url(./img_about/Inna.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -643,14 +643,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 60px;
 }
 .crew__item:hover .crews__icon__boris{
-  background-image: url(/img_about/foto/Boris.png);
+  background-image: url(./img_about/foto/Boris.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .crews__icon__boris{
-  background-image: url(/img_about/Boris.png);
+  background-image: url(./img_about/Boris.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -663,14 +663,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 60px;
 }
 .crew__item:hover .crews__icon__elina{
-  background-image: url(/img_about/foto/Elina.png);
+  background-image: url(./img_about/foto/Elina.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .crews__icon__elina{
-  background-image: url(/img_about/Elina.png);
+  background-image: url(./img_about/Elina.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -683,14 +683,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 60px;
 }
 .crew__item:hover .crews__icon__elena{
-  background-image: url(/img_about/foto/Elena.png);
+  background-image: url(./img_about/foto/Elena.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .crews__icon__elena{
-  background-image: url(/img_about/Elena.png);
+  background-image: url(./img_about/Elena.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -703,14 +703,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 60px;
 }
 .crew__item:hover .crews__icon__yrii{
-  background-image: url(/img_about/foto/Yrii.png);
+  background-image: url(./img_about/foto/Yrii.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .crews__icon__yrii{
-  background-image: url(/img_about/Yrii.png);
+  background-image: url(./img_about/Yrii.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -840,14 +840,14 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .crew__item:hover .crews__icon__yrii{
-  background-image: url(/img_about/foto/Yrii.png);
+  background-image: url(./img_about/foto/Yrii.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .crews__icon__yrii{
-  background-image: url(/img_about/Yrii.png);
+  background-image: url(./img_about/Yrii.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -861,7 +861,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .parners__item:hover .logo__1{
-  background-image: url(/img_about/logo/logo-1.png);
+  background-image: url(./img_about/logo/logo-1.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -869,14 +869,14 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 .logo__1{
-  background-image: url(/img_about/logo-16.png);
+  background-image: url(./img_about/logo-16.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .parners__item:hover .logo__2{
-  background-image: url(/img_about/logo/logo-2.png);
+  background-image: url(./img_about/logo/logo-2.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -884,7 +884,7 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 .logo__2{
-  background-image: url(/img_about/logo-25.png);
+  background-image: url(./img_about/logo-25.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -899,14 +899,14 @@ h1, h2, h3, h4, h5, h6 {
 
 } */
 .logo__3{
-  background-image: url(/img_about/Vector\ Smart\ Object.png);
+  background-image: url(./img_about/Vector\ Smart\ Object.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .parners__item:hover .logo__4{
-  background-image: url(/img_about/logo/logo-4.png);
+  background-image: url(./img_about/logo/logo-4.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -914,14 +914,14 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 .logo__4{
-  background-image: url(/img_about/Vector\ Smart\ Object4.png);
+  background-image: url(./img_about/Vector\ Smart\ Object4.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .parners__item:hover .logo__5{
-  background-image: url(/img_about/logo/logo-5.png);
+  background-image: url(./img_about/logo/logo-5.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -929,14 +929,14 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 .logo__5{
-  background-image: url(/img_about/Vector\ Smart\ Object2.png);
+  background-image: url(./img_about/Vector\ Smart\ Object2.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .parners__item:hover .logo__6{
-  background-image: url(/img_about/logo//logo-6.png);
+  background-image: url(./img_about/logo//logo-6.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -944,7 +944,7 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 .logo__6{
-  background-image: url(/img_about/Vector\ Smart\ Object3.png);
+  background-image: url(./img_about/Vector\ Smart\ Object3.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
@@ -958,14 +958,14 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .rates__flower{
-  background-image: url(/img/content/mark-as-favorite-star.png);
+  background-image: url(./img/content/mark-as-favorite-star.png);
   width: 68px;
   height: 68px;
   background-repeat: no-repeat;
   background-position: center;
 }
 .rate__item:hover .rates__flower{
-  background-image: url(/img/content/star_black.png);
+  background-image: url(./img/content/star_black.png);
   width: 68px;
   height: 68px;
   background-repeat: no-repeat;
@@ -989,7 +989,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .intro__btns:hover .intro__btns__active{
-  background-image: url(/img/nav/team_icon.png) no-repeat center;
+  background-image: url(./img/nav/team_icon.png) no-repeat center;
   width: 20px;
   height:20px;
 }
@@ -1038,7 +1038,7 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 .intro__btns:hover .icons__strela{
-  background: url(/img/nav/main_icon.png);
+  background: url(./img/nav/main_icon.png);
   background-repeat: no-repeat;
   /* background-position: center; */
   width: 25px;
@@ -1066,7 +1066,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 25px;
   height: 25px;
   /* padding-right: 50px; */
-  background: url(/img/nav/main_icon_white.png) no-repeat;
+  background: url(./img/nav/main_icon_white.png) no-repeat;
   vertical-align: middle;
 }
 
