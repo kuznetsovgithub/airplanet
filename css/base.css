@@ -623,14 +623,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 60px;
 }
 .crew__item:hover .crews__icon__inna{
-  background-image: url(../img_about/foto/Inna.png);
+  background-image: url(../img_about/foto/alenaa.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
   height: 169px;
 }
 .crews__icon__inna{
-  background-image: url(../img_about/Inna.png);
+  background-image: url(../img_about/foto/alenaa.png);
   background-position: center center;
   background-repeat: no-repeat;
   width: 169px;
